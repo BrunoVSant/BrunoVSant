@@ -2,13 +2,12 @@
 
 
 - 🔭 Hoje trabalho, com desenvolvimento web, automação e integrações de sistemas.
-- 🌱 Estou estudando IA
+- 🌱 Estou aprofundando, meus conhecimentos em Python, e tenho como principal hobby estudar o treinamento e desenvolvimento de IA.
 - 📫Você pode me contatar pelo número de telefone (51) 99106-5928
 
 <div>
       <a href="https://github.com/BrunoVSant"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVSant&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVSant&layout=compact&langs_count=16&theme-dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVSant&hide_title=false&layout=compact&langs_count=16&theme-dark"/>
 </div>
 
 ##
